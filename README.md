@@ -14,8 +14,8 @@ SkeletonSUI ($SKELSUI) is the undead pulse of the Sui blockchain—a memecoin th
 
 Key highlights:
 - **Market Cap Milestone:** Recently surpassed $50K, with steady community building.
-- **Token Locks:** Over 260M tokens locked by the dev until Januari 2026.
-- **Community Focus:** 18% staked by the community, with raids, giveaways, and whale hunts.
+- **Token Locks:** Over 300M tokens locked, including 260M by the dev until December 2025.
+- **Community Focus:** 18.37% staked by the community, with raids, giveaways, and whale hunts.
 - **Vision:** To become the immortal meme on Sui, outlasting trends through vibes, memes, and real utility like paid raids.
 
 This whitepaper outlines the project's origins, mechanics, roadmap, and how $SKELSUI is poised to skeletonize the crypto space.
