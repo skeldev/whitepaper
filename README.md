@@ -69,15 +69,17 @@ $SKELSUI leverages Sui's parallel processing and object-centric model to enable 
 
 | Category          | Details                          | Amount (Tokens) | Percentage |
 |-------------------|----------------------------------|-----------------|------------|
-| **Total Supply** | Fixed supply, no minting         | 1,000,000,000   | 100%      |
-| **Locked Tokens** | Dev and team locks (e.g., 260M until Jan 2026; total locked: 260M) | 260,000,000     | 26%    |
-| **Community Staked** | Holder staking for rewards      | 183,700,000     | 18%       |
-| **Circulating Supply** | Available for trading          | ~380,000,000    | ~38%      |
-| **Liquidity/Burn** | Initial LP locked; future burns via community votes | Variable        | N/A       |
+| **Total Supply** | Fixed supply, mint authority disabled         | 1,000,000,000   | 100%      |
+| **Burned Tokens** | Burned SKELSUI (honeypot/dead address) | 15,100,000      | 1.51%     |
+| **Locked Tokens** | Dev and team locks (e.g., 260M dev until Jan 2026; total locked: ~300M) | 300,169,700     | 30.02%    |
+| **Community Staked** | Holder staking for rewards      | 183,700,000     | 18.37%    |
+| **Circulating Supply** | Available for trading (approx: total - burned - locked)          | ~684,730,300    | ~68.47%      |
+| **Liquidity/Burn** | LP 99.06% burned; pooled in Cetus; future burns via community votes | 170,279,500 (pooled)        | 17.03%       |
 
 - **Tax Structure:** 0% buy/sell tax (fair and simple).
-- **Distribution Model:** 100% community allocation post-launch; no VC or insider sales.
+- **Distribution Model:** 100% community allocation post-launch; no VC or insider sales. Dev balance: 0%. Top 10 holders: 18.37%.
 - **Use Cases:** Raiding rewards, staking yields, giveaway prizes, and potential NFT integrations (e.g., skeleton-themed PFPs).
+
 
 ### Token Lock Contracts
 
