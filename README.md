@@ -114,7 +114,7 @@ Locked by community:
 
 ### Phase 3: Eternal Dominion (November 2025 – Q1 2026)
 - Relock dev tokens with community oversight.
-- Introduce NFT collection: "Skeleton Army" PFPs with utility.
+- Introduce NFT collection: PFPs with utility.
 - Expand to cross-chain bridges.
 - Major exchange listings (target: Tier 1 CEX).
 - Global raids and marketing campaigns.
