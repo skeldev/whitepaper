@@ -79,6 +79,20 @@ $SKELSUI leverages Sui's parallel processing and object-centric model to enable 
 - **Distribution Model:** 100% community allocation post-launch; no VC or insider sales.
 - **Use Cases:** Raiding rewards, staking yields, giveaway prizes, and potential NFT integrations (e.g., skeleton-themed PFPs).
 
+### Token Lock Contracts
+
+Locked by dev:
+
+`0x8ca05354eff24b7c8eefeb01d56d1f635b807b5ca70cd75c51b5301e4b8732ff`
+`0x8d9bc62b862ed58a4f884f8ccd58897615133d70d5c3924277d991778df3e133`
+`0x09283149e9c1653929d6ce3766413d669501ba8c34592afcba2ad01348268327`
+`0x0e4742b3da1ae902c97af675c85c99532f673a3905cf95a11f59587a24db569e`
+`0x048ce112e9a031ee302dab5667784ab4f0c8ce881c932df2f4616528d1b376f2`
+`0x715ab6bf963657f07de1982b9c360c3c24a76dd5b56712f1f94c5e80a54b49af`
+
+Locked by community:
+
+
 ---
 
 ## Roadmap
