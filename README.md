@@ -100,7 +100,7 @@ Locked by community:
 ## Roadmap
 
 ### Phase 1: Awakening (August 2025 – Completed)
-- Launch on Sui.
+- Launch on Moonbags.
 - Initial listings (CoinMun, CoinCatapult).
 - Community building: Telegram group (@skelchat), X raids.
 - Dev lock of 260M tokens.
@@ -136,7 +136,7 @@ The real power lies in the community—the "Skel Crew." With thousands of holder
 - X: @skeletonsui
 - Telegram: https://t.me/skelchat
 - Chart: [DexScreener or similar](https://dexscreener.com/sui/0x84604526d71bbe7738c3c02d3c8a48778955718289c03d814d8468b58ae9a898::skelsui::SKELSUI) 
-
+- Buy: [Cetus](https://app.cetus.zone/swap/0x2::sui::SUI/0x84604526d71bbe7738c3c02d3c8a48778955718289c03d814d8468b58ae9a898::skelsui::SKELSUI)
 ---
 
 ## Risks and Disclaimers
