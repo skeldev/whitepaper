@@ -86,14 +86,24 @@ $SKELSUI leverages Sui's parallel processing and object-centric model to enable 
 
 Locked by dev:
 
-`0x8ca05354eff24b7c8eefeb01d56d1f635b807b5ca70cd75c51b5301e4b8732ff`
-`0x8d9bc62b862ed58a4f884f8ccd58897615133d70d5c3924277d991778df3e133`
-`0x09283149e9c1653929d6ce3766413d669501ba8c34592afcba2ad01348268327`
-`0x0e4742b3da1ae902c97af675c85c99532f673a3905cf95a11f59587a24db569e`
-`0x048ce112e9a031ee302dab5667784ab4f0c8ce881c932df2f4616528d1b376f2`
-`0x715ab6bf963657f07de1982b9c360c3c24a76dd5b56712f1f94c5e80a54b49af`
+| Contract ID                                                          | Amount (SKELSUI)  | Amount (M) |
+| -------------------------------------------------------------------- | ----------------- | ---------- |
+| `0x048ce112e9a031ee302dab5667784ab4f0c8ce881c932df2f4616528d1b376f2` | 80,000,000        | 80.00 M    |
+| `0x8d9bc62b862ed58a4f884f8ccd58897615133d70d5c3924277d991778df3e133` | 61,667,085.635501 | 61.67 M    |
+| `0x8ca05354eff24b7c8eefeb01d56d1f635b807b5ca70cd75c51b5301e4b8732ff` | 50,000,000        | 50.00 M    |
+| `0x715ab6bf963657f07de1982b9c360c3c24a76dd5b56712f1f94c5e80a54b49af` | 50,000,000        | 50.00 M    |
+| `0x0e4742b3da1ae902c97af675c85c99532f673a3905cf95a11f59587a24db569e` | 17,500,000        | 17.50 M    |
+| `0x09283149e9c1653929d6ce3766413d669501ba8c34592afcba2ad01348268327` | 234,983.731535    | 0.23 M     |
+
 
 Locked by community:
+
+| Contract ID                                                          | Amount (SKELSUI) | Amount (M) | Locker Address                                                       |
+| -------------------------------------------------------------------- | ---------------- | ---------- | -------------------------------------------------------------------- |
+| `0xe04ea6d9d18eadffc1f8d6f10772e8a2d00d9ab6fe6846a6b1a3178adc12f3e1` | 10,000,000       | 10.00 M    | `0xf51d0a506aeddf3303407c8605930e1de34a6f2080bf7a6dac5c2a104234dfaf` |
+| `0xa18e05bc1fe858380ccd49385a7a1e05cf6afaaab072492cd1c2f23b3478c782` | 10,000,000       | 10.00 M    | `0x91df98bac50802cd020e8113651ef4be267dcdb1f8198806fc38c136e823ed44` |
+| `0x0afbf32ebb98c990728cd6d655dfb8a40acfe31c3a6d1532e81103ef6f5fa1af` | 2,324,998.195464 | 2.32 M     | `0x91df98bac50802cd020e8113651ef4be267dcdb1f8198806fc38c136e823ed44` |
+| `0x03a98d964775150eca84656b19a96515cd63d1912c333061a86e1071a6aa0b59` | 23.021638        | 0.000023 M | `0xd70f3dc3382cb81e0dce0d906a076e48df06f2ddefc4e7f78561ecffaf77c978` |
 
 
 ---
