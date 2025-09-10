@@ -73,7 +73,7 @@ $SKELSUI leverages Sui's parallel processing and object-centric model to enable 
 | **Total Supply** | Fixed supply, mint authority disabled         | 1,000,000,000   | 100%      |
 | **Burned Tokens** | Burned SKELSUI (honeypot/dead address) | 15,100,000      | 1.51%     |
 | **Locked Tokens** | Dev and team locks (e.g., 260M dev until Jan 2026; total locked: ~300M) | 300,169,700     | 30.02%    |
-| **Community Staked** | Holder staking for rewards      | 183,700,000     | 18.37%    |
+| **Community Staked** | Holder staking for rewards      | 225,700,000     | 22.57%    |
 | **Circulating Supply** | Available for trading (approx: total - burned - locked)          | ~684,730,300    | ~68.47%      |
 | **Liquidity/Burn** | LP 99.06% burned; pooled in Cetus; future burns via community votes | 170,279,500 (pooled)        | 17.03%       |
 
