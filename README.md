@@ -1,4 +1,4 @@
-# SkeletonSUI ($SKELSUI) Whitepaper
+# SKELETON ($SKELSUI) Whitepaper
 
 ## Version 1.0  
 **Date:** September 09, 2025  
