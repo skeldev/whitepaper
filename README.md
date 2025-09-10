@@ -1,11 +1,11 @@
 # SKELETON ($SKELSUI) Whitepaper
 
 ## Version 1.0  
-**Date:** September 09, 2025  
-**Authors:** The Skeleton Crew
-**Contract Address (CA):** 0x84604526d71bbe7738c3c02d3c8a48778955718289c03d814d8468b58ae9a898::skelsui::SKELSUI  
-**Blockchain:** Sui Network  
-
+|-------------------|----------------------------------|
+| **Date** | September 09, 2025          |
+| **Authors:** | The Skeleton Crew          |
+| **Contract Address (CA):** | 0x84604526d71bbe7738c3c02d3c8a48778955718289c03d814d8468b58ae9a898::skelsui::SKELSUI |
+| **Blockchain:** | Sui Network  |
 ---
 
 ## Executive Summary
