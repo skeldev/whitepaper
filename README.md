@@ -155,4 +155,4 @@ For updates, follow @skeletonsui. Let's build the future, one bone at a time.
 
 --- 
 
-This whitepaper is subject to updates as the project evolves. Contact via Twitter DMs for inquiries.
+This whitepaper is subject to updates as the project evolves. Contact via X DMs for inquiries.
