@@ -1,7 +1,7 @@
 # SKELETON ($SKELSUI) Whitepaper
 
 ## Version 1.0  
-| Category          | Details                          | 
+|          |                         | 
 |-------------------|----------------------------------|
 | **Date** | September 09, 2025          |
 | **Authors:** | The Skeleton Crew          |
