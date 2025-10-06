@@ -209,6 +209,59 @@ $SKELSUI leverages Sui’s parallel transaction model for fast, low-cost partici
 
 ---
 
+## Achievements & Timeline
+
+The rise of $SKELSUI has been chronicled live on X through constant milestones, airdrops, and new market cap highs.  
+Every step reflects the unbreakable community spirit and the undead pulse of the Sui memecoin scene.  
+
+| Date (UTC) | Milestone / Achievement |
+|-------------|--------------------------|
+| **Thu, 02 Oct 2025 07:00:29 GMT** | 💎 Manifested the goal of reaching **10M market cap**, setting long-term vision for the community. |
+| **Thu, 02 Oct 2025 07:07:22 GMT** | 🔁 Returned to **150K market cap** after a dip — showcasing diamond hands and community resilience. |
+| **Thu, 02 Oct 2025 14:46:35 GMT** | 🎁 Launched a **Starter Collection Airdrop** in partnership with the *SUI Memecoin Hall of Fame*. |
+| **Fri, 03 Oct 2025 12:45:23 GMT** | 🪙 Introduced the **$SUI Treasure Chest Airdrop**, featuring multiple memecoins (MBP, MANNI, WHEELS, PANDA, SKELSUI). |
+| **Sat, 04 Oct 2025 05:47:08 GMT** | 🚀 Hit a new **ATH of 215K market cap** — community momentum accelerates. |
+| **Sat, 04 Oct 2025 08:10:46 GMT** | 🔥 Reached a new **ATH of 230K market cap** — “Ooze Drip” visuals introduced. |
+| **Sat, 04 Oct 2025 20:33:27 GMT** | ⚡ Achieved another **ATH of 250K market cap** — golf & moon celebration posts launched. |
+| **Sat, 04 Oct 2025 21:45:12 GMT** | 💀 Surged to **260K market cap ATH** — “Skel Energy to outer space” campaign launched. |
+| **Sat, 04 Oct 2025 23:12:37 GMT** | 🧠 Crossed **300K market cap**, marking entry into mid-cap territory. |
+| **Sat, 04 Oct 2025 23:17:25 GMT** | 📈 Hit **307K market cap** shortly after — first multi-ATH streak in a single day. |
+| **Sun, 05 Oct 2025 08:09:00 GMT** | 🪩 Reached a new **ATH of 350K market cap**, “Alien Queen” meme arc launched. |
+| **Sun, 05 Oct 2025 17:23:51 GMT** | 🔗 Integrated with **SUINS** — enabling `@skelly` subnames for holders of **500K+ SKELSUI**. |
+| **Sun, 05 Oct 2025 20:18:45 GMT** | 🎉 Conducted major **$SKELSUI Airdrop** for active community members. |
+| **Mon, 06 Oct 2025 06:24:38 GMT** | 👕 Launched **merchandise collection** (hoodies, T-shirts) and announced **raffles** for holders. |
+| **Mon, 06 Oct 2025 06:48:10 GMT** | 💸 Executed another **$SKELSUI airdrop**, expanding holder base. |
+| **Mon, 06 Oct 2025 07:19:06 GMT** | 🎯 Organized **10,000 $SKELSUI giveaway** for engagement and community boost. |
+| **Mon, 06 Oct 2025 09:05:41 GMT** | 📦 Released a new **batch of airdrops**, onboarding more holders to Sui. |
+| **Mon, 06 Oct 2025 09:16:39 GMT** | 🌐 Initiated **cross-chain outreach**, inviting users from SOL, ETH, and DOGE to join the Sui ecosystem. |
+| **Mon, 06 Oct 2025 09:42:38 GMT** | 🧠 Launched **KOL Hunt Contest** — 10,000 $SKELSUI reward for the best ambassador aligning with Skel Energy. |
+
+---
+
+### All-Time High (ATH) Progression
+
+| Market Cap | Date | Description |
+|-------------|------|-------------|
+| **150K MC** | 02 Oct 2025 | Reclaimed milestone; “Back stronger” phase. |
+| **200K MC** | 03 Oct 2025 | Growth surge during Treasure Chest Airdrop. |
+| **215K MC** | 04 Oct 2025 | “Believe and Manifest” campaign launch. |
+| **230K MC** | 04 Oct 2025 | New Ooze Drip visuals + raid escalation. |
+| **250K MC** | 04 Oct 2025 | Golf & Moon celebration memes. |
+| **260K MC** | 04 Oct 2025 | Outer space & alien Skel Energy series. |
+| **300K MC** | 04 Oct 2025 | First mid-cap breakthrough; multiple ATHs in one day. |
+| **307K MC** | 04 Oct 2025 | Micro peak after 300K rally. |
+| **350K MC** | 05 Oct 2025 | “Alien Queen” meme arc dominance. |
+
+---
+
+### Highlights
+- Over **10 ATHs** reached in under two weeks — all through **organic community growth** and **no unlocked dev tokens**.  
+- Continuous **airdrops, giveaways, and meme contests** have expanded the holder base and strengthened loyalty.  
+- Integration with **SUINS subnames** brought on-chain identity to top holders.  
+- Launch of **merch**, **cross-chain onboarding**, and **KOL outreach** mark the transition from meme to movement.  
+- Vision extended: **10M MC goal** — a long-term symbol of the Skel Crew’s resilience and conviction.  
+
+
 ## Team and Community
 
 **The Skeleton Crew**: a band of undead builders and meme magicians.  
